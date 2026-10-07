@@ -15,7 +15,7 @@ From this folder, run:
 python3 -m http.server 4173
 ```
 
-Then open <http://localhost:4173>.
+Then open <https://craj41273-sketch.github.io/marthish-dn-portfolio/>
 
 ## Change the colors
 
